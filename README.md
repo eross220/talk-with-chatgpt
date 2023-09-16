@@ -8,5 +8,4 @@ Talk To ChatGPT
 5. Customize your Chatbot1.txt
 6. Run talk.py
 
-YouTube Tutorial:
-https://youtu.be/bZhgoYrHC3w
+
